@@ -9,4 +9,9 @@ export class Dollar {
     return new Dollar(this.amount * multiplier)
   }
 
+  equals(object: any) {
+    const dollar: Dollar = object
+    return this.amount === dollar.amount
+  }
+
 }
