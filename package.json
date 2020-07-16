@@ -1,0 +1,26 @@
+{
+  "name": "tdd-studies",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --no-cache"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorjbarbosa/tdd-studies.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jorjbarbosa/tdd-studies/issues"
+  },
+  "homepage": "https://github.com/jorjbarbosa/tdd-studies#readme",
+  "devDependencies": {
+    "@types/jest": "^26.0.4",
+    "jest": "^26.1.0",
+    "ts-jest": "^26.1.2",
+    "typescript": "^3.9.6"
+  }
+}
